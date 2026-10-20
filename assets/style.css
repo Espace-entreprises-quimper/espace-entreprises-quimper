@@ -7,4 +7,6 @@ header nav {
   align-items: center;
   gap: 24px;
 }
-  
+  header nav a + a {
+  margin-left: 18px !important;
+}
